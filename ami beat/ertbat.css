@@ -1,0 +1,53 @@
+.top4 {
+	width:100%;
+	height:500px;
+	background:#bdc3c7;
+}
+
+.menu2 {
+	float: right;
+	width: 100%;
+	background: #2c3e50;
+}
+
+.menu2 li {
+	float: right;
+	list-style: none;
+}
+
+.menu2 li a {
+	color: #fff;
+	padding: 10px 30px;
+	display: inline-block;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.menu2 li a:hover {
+	background:#e74c3c;
+	border-radius:5px;
+}
+
+.menu9 {
+	float: right;
+	width: 100%;
+	background: #2c3e50;
+}
+
+.menu9 li {
+	float: right;
+	list-style: none;
+}
+
+.menu9 li a {
+	color: #fff;
+	padding: 10px 30px;
+	display: inline-block;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.menu9 li a:hover {
+	background:#2ecc71;
+	border-radius:5px;
+}
